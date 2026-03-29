@@ -1,10 +1,8 @@
-<!-- 🌟 Modern & Visually Appealing GitHub Profile README 🌟 -->
-
 <h1 align="center">Hi 👋, I'm <span style="color:#4F8CFF;">Harshit Thakur</span></h1>
-<h3 align="center">🎯 AI/ML enthusiast crafting seamless web solutions</h3>
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | Building Real-World Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Frontend+Developer;React+%7C+Python+%7C+TensorFlow;CSE+(AI%2FML)+Student;Always+learning+something+new!">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Full+Stack+Engineer;Next.js+%7C+Python+%7C+APIs;Building+Scalable+Apps;Open+to+Opportunities!">
 </p>
 
 <p align="center">
@@ -13,50 +11,77 @@
 
 ---
 
-### 🎯 Mission
+## 🧠 About Me
+
+* 🎓 CSE (AI/ML) Student
+* 🚀 Building **AI-powered web applications & SaaS products**
+* 💡 Focused on solving real-world problems with tech
+* 📈 Passionate about scalable systems & modern architectures
+
+---
+
+## 🔥 What I’m Building
+
+* 🤖 AI Chatbots & Automation Tools
+* 🌐 Full Stack SaaS Applications
+* 📊 Data-driven ML Projects
+* ⚡ Real-time Web Apps
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Core
+
 <p align="center">
-  <i>“To build intelligent and user-focused applications that make life simpler.”</i>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,fastapi,tailwind,postgres,docker,git" />
+</p>
+
+### 🧠 AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### ☁️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,githubactions" />
 </p>
 
 ---
 
-### 💡 What I Do
-<p align="center">
-  <b>🤖 Explore AI & Machine Learning</b><br/>
-  <b>🌐 Build front-end experiences using React</b><br/>
-  <b>🐍 Work with Python, Pandas & TensorFlow</b><br/>
-  <b>💻 Develop clean & scalable software solutions</b>
-</p>
+## 🚀 Featured Projects
+
+### 🔹 AI Resume Analyzer
+
+> AI tool that analyzes resumes and gives improvement suggestions
+
+* Built with: Python, ML, NLP
+* Features: Scoring, Suggestions, Keyword Matching
 
 ---
 
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshit-thakur-ht2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:2k23.csai2313341@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/HarshitThakur01265" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 🔹 Full Stack SaaS Dashboard
+
+> Scalable dashboard with authentication & analytics
+
+* Tech: Next.js, Node.js, PostgreSQL
+* Features: Auth, APIs, Dashboard UI
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,tensorflow,git,github" height="70"/>
-</p>
+### 🔹 AI Chatbot App
 
-<p align="center">
-  <b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> • <b>React</b> • <b>Python</b> • <b>Java</b> • <b>Pandas</b> • <b>TensorFlow</b> • <b>Git</b>
-</p>
+> Context-aware chatbot using APIs
+
+* Tech: React + AI APIs
+* Features: Memory, smart responses
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshitThakur01265&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshitThakur01265&theme=tokyonight&hide_border=true" height="150"/>
@@ -68,28 +93,29 @@
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
+  <a href="https://www.linkedin.com/in/harshit-thakur-ht2005/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:2k23.csai2313341@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center"><i>"Code is like art — the cleaner it is, the more beautiful it becomes."</i></p>
-
 ---
 
-<details>
-  <summary>📈 <b>More About Me</b></summary>
-  <br/>
-  - 🌱 Currently learning: <b>AI/ML, TensorFlow, Neural Networks</b><br/>
-  - 🔭 Working on: <b>AI-based web apps & ML projects</b><br/>
-  - 👯 Open to collaborate on: <b>React, Python, Machine Learning</b><br/>
-  - 💬 Ask me about: <b>React, Python, TensorFlow, ML Concepts</b><br/>
-  - 📫 Email me at: <a href="mailto:2k23.csai2313341@gmail.com">2k23.csai2313341@gmail.com</a><br/>
-  - ⚡ Fun fact: <i>I love turning ideas into digital reality!</i>
-</details>
+## 📈 Activity Graph
 
----
-
-### 🌐 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitThakur01265&theme=tokyo-night"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
+
+<p align="center"><i>"Build. Ship. Learn. Repeat."</i></p>
